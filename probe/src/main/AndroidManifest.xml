@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <queries><package android:name="staff.android.trust" /></queries>
+    <application android:label="Common Goods boundary probe" android:allowBackup="false">
+        <receiver android:name=".BoundaryProbe" android:exported="true" />
+    </application>
+</manifest>

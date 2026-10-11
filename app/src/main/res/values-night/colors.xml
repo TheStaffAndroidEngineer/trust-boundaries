@@ -1,0 +1,9 @@
+<resources>
+    <color name="ink">#EBEFF1</color>
+    <color name="muted">#B6C0C8</color>
+    <color name="paper">#12181D</color>
+    <color name="accent">#B5C4FF</color>
+    <color name="accent_soft">#293E7C</color>
+    <color name="panel">#172026</color>
+    <color name="rule">#35424B</color>
+</resources>
